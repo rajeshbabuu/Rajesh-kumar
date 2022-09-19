@@ -1,3 +1,3 @@
 #!/bin/bash -x
 
-echo "Hello git hub";
+echo "Hello git hub!";
